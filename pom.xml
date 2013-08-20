@@ -9,7 +9,7 @@
 	
 	<properties>
 		<maven.repository.id>jboss-enterprise</maven.repository.id>
-		<maven.repository.url>file://${env.HOME}/.m2/repository2</maven.repository.url>
+		<maven.repository.url>file://${env.HOME}/.m2/repository</maven.repository.url>
 		<maven.repository.snapshots.id>${maven.repository.url}</maven.repository.snapshots.id>
 		<!--maven.repository.url>http://mvnreposerver/nexus/jboss-enterprise</maven.repository.url-->
 	</properties>
